@@ -77,8 +77,11 @@ footer{
     width: 90%;
     margin: 50px auto 20px;
   }
+  .step-box:nth-child(2){
+    margin:0 auto 20px;
+  }
   .step-box:last-child{
-    margin:20px auto 50px;
+    margin:0 auto 50px;
   }
 
   .step1-image{
